@@ -232,4 +232,4 @@ for(let i = 0; i < playList.length; i++) {
   li.textContent = playList[i].title;
   playListContainer.append(li);
 }
-//---Создаем элемент <li></li> с классом .play-item в родительском элементе <ul></ul> с классом .play-list---//
+//-------------------------------------------------------------------------------------------------------//
